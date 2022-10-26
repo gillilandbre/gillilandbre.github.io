@@ -1,0 +1,33 @@
+body
+{
+  backgroung-color:rgb(357,80,102)
+}
+h1
+{
+  text-background: underline;
+  text-align: center;
+  color: rgb(252,218,218)
+}
+ul
+{
+  fontsize:18pt 
+}
+head
+{
+  text-background: underline;
+  text-align: center;
+  color: rbg(252, 218,218)
+}
+h2
+{
+  color: rbg(25,0,0)
+}
+h3
+{
+  color: rbg(25,0,0)
+}
+title 
+{
+  text-background: underline;
+  text-align: center;
+}
