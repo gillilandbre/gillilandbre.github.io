@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta name ="viewport" content="width-device-width-inital-scale=1">
+    <link rel="stylesheet" href="css/main.css">
+    <link rel="stylesheet"href=https://cdn.jsdelivr.net/npm/bootstrap@5.2.2/dist/css/bootstrap.min.css">
+                                                                                                      
+    <meta charset="UTF-8">
+    <title>Resources</title>
+  </head>
+  <body>
+
+    <h1>Resources</h1>
+    <p>Keep in mind, our team is on call around the clock to ensure all of your needs are met.</p>
+                         <p>500 Right of Way Rd, Sterling, CO 80751</p>
+                         <p>(970) 522-2307</p>
+                         
+<ul>How Can We Help</ul>
+<li> We can provide you with a place to stay.</li>
+<li> We are able to offer you counseling services</li>
+<li> Our team strives to set you up with financial support to ensure you are able to eventually get into your own home.</li>
+<li> We work to help provide you with necessary materials to furnish and live comfortably in a home</li> 
+  </body>
+</html>
